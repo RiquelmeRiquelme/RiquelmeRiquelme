@@ -40,10 +40,12 @@ During my specialized Python training, I developed complete solutions applying O
 ### 1. Web App with Flask 🌐
 * **Description:** Creation of a functional web application connected to a database.
 * **Technologies:** Python, Flask, SQLite3.
+* [https://github.com/RiquelmeRiquelme/GestorTareas](https://github.com/RiquelmeRiquelme/GestorTareas)
 
 ### 2. Desktop App with Tkinter 🖥️
 * **Description:** Development of a Graphical User Interface (GUI) for local data management.
 * **Technologies:** Python, Tkinter, SQLite3.
+* [https://github.com/RiquelmeRiquelme/GestorProductos](https://github.com/RiquelmeRiquelme/GestorProductos)
 
 ---
 
